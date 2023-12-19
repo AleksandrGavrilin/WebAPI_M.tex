@@ -1,0 +1,6 @@
+.venv/
+/client.log
+/file_standart.log
+data/
+/create.sql
+
